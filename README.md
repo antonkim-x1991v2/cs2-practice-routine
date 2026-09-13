@@ -44,3 +44,5 @@ python practice.py stats
 ```
 
 This reads the SQLite database and prints a table of your historic sessions, showing your average KPM and headshot percentage per drill.
+
+<!-- last-checked: 2026-09-13 -->
